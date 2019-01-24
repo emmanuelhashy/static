@@ -1,0 +1,334 @@
+body{
+	background-color:lightgrey;
+}
+nav{
+	background-color: transparent;
+	padding-top: 40px;
+	text-transform: uppercase;
+}
+
+a:hover{
+	text-decoration: none;
+
+
+}
+
+.nav-link,.navbar-brand{
+	color: white !important;
+}
+
+.navbar-brand{
+	font-size: 25px ;
+}
+
+#wire {
+	padding: 4px 20px;
+	color: black;
+	background-color: #ffffff;
+	border-style: none;
+	/*border-radius:100px !important ;*/
+	font-size: 20px;
+	font-weight: bold;
+	margin-left: 20px;
+	display: inline-block;
+
+}
+
+.nav-item {
+	margin-left: 40px;
+	font-size: 14px ;
+}
+.btn-yellow{
+	background-color: orange;
+	color: white;
+	text-transform: uppercase;
+	font-size: 13px;
+}
+
+.top{
+	background: url('../Assest/hd-5.jpg')  no-repeat fixed ;
+	height: 110vh;
+	background-size: cover;
+	
+}
+
+.second{
+	margin-top: 150px;
+}
+
+.carousel-item{
+	text-transform: uppercase;
+	color: white;
+	font-weight: bold;
+}
+
+.static{
+	color: white;
+}
+
+.fa-play{
+	color: white;
+	margin-left: 20px;
+	font-size: 50px;
+}
+
+.watch{
+	color: orange;
+	text-transform: uppercase;
+	font-size: 15px;
+}
+
+.left{
+	border-left: 1px solid grey;
+	padding: 10px;
+}
+
+.left>h2{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.pic{
+	width: 70px;
+	height: 70px;
+	margin-right: 10px;
+}
+
+.section3{
+	background-color: white;
+	height: auto;
+	margin-top: 50px;
+}
+
+.padtop{
+	padding-top: 60px;
+}
+
+.head{
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 20px;
+}
+
+.para{
+	margin-top: 30px;
+	color: grey;
+	font-size: 18px;
+}
+
+.fa-plus{
+	color: orange;
+	margin-right: 10px;
+}
+
+.para1{
+	margin-top: 10px;
+	color: grey;
+	font-size: 16px;
+}
+
+.pic1{
+	width:200px;
+	height: 150px;
+	border-radius: 5px;
+	box-shadow: 0px 3px 0px 3px #ccc;
+}
+
+.pic2{
+	width:200px;
+	height: 350px;
+	border-radius: 5px;
+	box-shadow: 0px 3px 0px 3px #ccc;
+}
+
+.section4{
+	height: auto;
+	margin-top: 50px;
+}
+
+.relative {
+  position: relative;
+  top: -300px;
+  left: 90px;
+  width: 400px;
+  background-color: white;
+  padding: 30px;
+}
+
+#quality{
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.btn-sm{
+	height: 30px;
+}
+
+small{
+	color: grey;
+	text-transform: uppercase;
+}
+
+#backgroundImage{
+	background: url('../Assest/hd-5.jpg')  no-repeat fixed ;
+	background-size: cover;
+	height: 110vh;
+	margin-top: -100px;
+}
+
+.let{
+	text-transform: uppercase;
+	color: orange;
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: 30px;
+}
+
+.para3{
+	color: white;
+	margin-bottom: 70px;
+}
+
+.para4{
+	color: white;
+	text-transform: uppercase;
+	font-weight: bold;
+
+}
+
+.dropdown-toggle-split{
+	background-color: orange;
+	text-transform: uppercase;
+	font-weight: bold;
+	border: none;
+}
+
+.btn-lg{
+	background-color: orange;
+	font-weight: bold;
+	border: none;	
+}
+
+.container1{
+	width: 350px;
+  	background-color: white;
+ 	padding: 30px;
+ 	padding-bottom: 15px;
+ 	display: inline-flex;
+ 	height: auto;
+ 	box-shadow: 0px 3px 0px 3px #ccc;
+}
+.thisimg{
+	margin-top: 50px;
+}
+.lead{
+	font-size: 20px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.pee{
+	color: grey;
+	font-size: 16px;
+}
+
+.section7{
+	background-color: white;
+	height: auto;
+}
+
+.second{
+	padding-top: 50px;
+}
+
+.list-group-item{
+	padding: 20px;
+	font-weight: bold;
+}
+.pee1{
+	font-weight: bold;
+	color: grey;
+}
+
+.logos{
+	width: 5em;
+	height: 5em;
+}
+
+.section9{
+	background: url('../Assest/hd-13.jpg')  no-repeat fixed ;
+	background-size: cover;
+	height:auto;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.para5{
+	font-weight: bold;
+	font-size: 25px;
+	color: white;
+}
+
+.par{
+	color: white;
+}
+
+.card-title{
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.card-text{
+	color: orange;
+
+}
+
+.section11{
+	background-color: white;
+	height: 300px;
+}
+
+.pt-50{
+	padding-top: 90px;
+}
+
+.lit{
+	color: black;
+	font-weight: bolder;
+	font-size: 24px;
+	text-transform: uppercase;
+}
+
+.waya{
+	text-transform: uppercase;
+	padding: 5px 20px;
+	font-weight: bolder;
+}
+
+.fab{
+	font-size: 50px;
+	color: blue;
+}
+
+.fa-youtube-square{
+	color: red;
+}
+
+.fa-twitter-square{
+	color: cyan;
+}
+
+.container2{
+	width: 100%;
+  	background-color: white;
+ 	padding: 40px;
+ 	padding-bottom: 15px;
+ 	display: inline-flex;
+ 	height: auto;
+ 	box-shadow: 0px 3px 0px 3px #ccc;
+}
+
+.fa-info-circle{
+	color: orange;
+	margin-right: 10px;
+}
